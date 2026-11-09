@@ -1,2 +1,2 @@
-# Linux and Git practice
-My first GitHub practical.
+# HCCDA - AI (Python Assignments)
+This repository includes two Python files from an assignment from Week 1 of this course.
